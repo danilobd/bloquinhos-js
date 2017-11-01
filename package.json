@@ -1,0 +1,24 @@
+{
+  "main": "index.html",
+  "name": "Bloquinhos-js",
+  "description": "Jogo de desviar dos Bloquinhos feito em JavaScript",
+  "version": "1.0",
+  "keywords": [ "bloquinhos", "node-webkit" ],
+  "window": {
+    "title": "Bloquinhos by DANBD",
+    /*"icon": "link.png",*/
+    "toolbar": true,
+    "frame": true,
+    "width": 800,
+    "height": 500,
+    "position": "center",
+    "min_width": 400,
+    "min_height": 200,
+    "width": 1500,
+    "height": 900,
+    "fullscreen": true
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
