@@ -71,7 +71,7 @@ $(document).ready(function(){
 			var MouseX = element.pageX;
 
 			//MOVIMENTA O PERSONAGEM NA HORIZONTAL DE ACORDO COM O MOUSE
-			$("#personagem").css('margin-left': MouseX-50})
+			$("#personagem").css('margin-left', (MouseX-50) );
 
 
 		});
