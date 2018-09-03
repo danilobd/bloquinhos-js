@@ -396,7 +396,7 @@ $(document).ready(function(){
 			"target": "_blank",
 			"title": "Make by DANBD",
 		});
-		$(mylogo).html('<img style="width: 9vh; padding: 2.5vh; float: right;" src="https://danbd.me/images/mylogo_mini.png">');
+		$(mylogo).html('<img style="width: 9vh; padding: 2.5vh; float: right;" src="https://danbd.me/images/Minha_logo_trasparente_cortata_branca.png">');
 		$(chao).append(mylogo);
 
 
